@@ -1,0 +1,14 @@
+name: Main
+main: com.benschreiber.Main
+description: nothing
+version: 1.0
+author: benschreiber
+api-version: 1.16
+commands:
+  cb:
+
+  _join:
+
+  leave:
+
+  end:
